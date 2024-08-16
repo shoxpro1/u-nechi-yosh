@@ -1,0 +1,32 @@
+
+
+
+input{
+    padding: 10px;
+    font-size: 16px;
+    width: 100px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border: solid black;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.me{
+    color: black;
+}
+.mes{
+color: red;
+}
+.mess{
+    color: blue;
+}
+.messi{
+    color: green;
+}
